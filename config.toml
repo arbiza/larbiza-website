@@ -4,7 +4,8 @@ theme = "hugo-theme-codex"
 # Override these settings with your own
 title = "Lucas Arbiza"
 languageCode = "en-us"
-baseURL = "https://arbiza.com.br"
+baseURL = ""
+relativeURLs = "True"
 copyright = "© {year}"
 
 # Add your Disqus shortname here.
