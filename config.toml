@@ -5,7 +5,7 @@ theme = "hugo-theme-codex"
 title = "Lucas Arbiza"
 languageCode = "en-us"
 baseURL = ""
-relativeURLs = "True"
+#relativeURLs = "True"
 copyright = "© {year}"
 
 # Add your Disqus shortname here.
